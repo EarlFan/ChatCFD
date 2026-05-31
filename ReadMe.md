@@ -6,6 +6,10 @@ ChatCFD is a LLM-driven pipeline that automates computational fluid dynamics (CF
 
 The system automatically interprets the paper's specifications, configures the OpenFOAM case, and handles the simulation setup, making CFD more accessible to users without extensive domain expertise.
 
+## Continuing Development
+
+ChatCFD is part of an ongoing research effort on autonomous CFD agents. Since its initial release, this direction has continued into PhyNiKCE, a neurosymbolic agentic framework for autonomous CFD. ChatCFD remains the open-source foundation for this work, and future maintenance will focus on documentation, benchmark cases, CI, safer automation, and community contributions.
+
 ![ChatCFD Overview](figures/fig1.illustration2.png)
 
 ## Table of Contents
